@@ -43,7 +43,7 @@
 &kp A  &kp S  &kp D
             >;
 
-            sensor-bindings = <&inc_dec_kp C_VOLUME_UP C_VOLUME_DOWN>;
+            sensor-bindings = <&inc_dec_kp K_SCROLL_UP K_SCROLL_DOWN>;
             label = "piparlake";
         };
 
